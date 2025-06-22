@@ -78,3 +78,17 @@ Leakage vs. VDD relationship
 Input signal integrity verification  
 
 
+# Images from this project
+
+![image](https://github.com/user-attachments/assets/8ed426b1-fead-469f-9479-7e36e9737db9)
+
+![image](https://github.com/user-attachments/assets/7be95dba-a162-44d3-bcc0-a3359132fee8)  
+
+![image](https://github.com/user-attachments/assets/d4d5e1ba-d06e-474b-badc-7ee099dd37d2)  
+
+![image](https://github.com/user-attachments/assets/8f9e7566-9196-466f-a766-ed38595d6454)  
+
+
+
+
+
